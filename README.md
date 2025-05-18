@@ -31,8 +31,8 @@ at Nuclear and Energy Research Institute (IPEN-CNEN), University of São Paulo,
 focusing on the use of spectroscopic and computational tools for the characterization 
 of biological samples.
 
-PhD Student - Vinicius Pereira dos Anjos
-\n PhD Advisor - Prof. Dr. Denise Maria Zezell
+PhD Student - Vinicius Pereira dos Anjos, 
+PhD Advisor - Prof. Dr. Denise Maria Zezell
 
 Learn more about the lab: https://biophotonics.my.canva.site/
 """
