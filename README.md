@@ -27,9 +27,12 @@ For full license details, refer to the LICENSE file.
 RESEARCH BACKGROUND
 =====================
 This code is part of a Ph.D. research project conducted at the Laboratory of Biophotonics,
-at Nuclear and Energy Research Institute (IPEN-CNEN), University of São Paulo), 
+at Nuclear and Energy Research Institute (IPEN-CNEN), University of São Paulo, 
 focusing on the use of spectroscopic and computational tools for the characterization 
 of biological samples.
+
+PhD Student - Vinicius Pereira dos Anjos
+PhD Advisor - Prof. Dr. Denise Maria Zezell
 
 Learn more about the lab: https://biophotonics.my.canva.site/
 """
