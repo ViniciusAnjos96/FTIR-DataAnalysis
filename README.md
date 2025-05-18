@@ -32,7 +32,7 @@ focusing on the use of spectroscopic and computational tools for the characteriz
 of biological samples.
 
 PhD Student - Vinicius Pereira dos Anjos
-PhD Advisor - Prof. Dr. Denise Maria Zezell
+\n PhD Advisor - Prof. Dr. Denise Maria Zezell
 
 Learn more about the lab: https://biophotonics.my.canva.site/
 """
