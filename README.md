@@ -7,7 +7,7 @@ This script was developed for the spectral analysis of FTIR (Fourier-transform i
 ====================
 DATA FORMAT REQUIRED
 ====================
-- The input file must be in `.csv` format.
+- The input file must be in `.csv` or `.xlsx` format.
 - Each row should represent an individual FTIR spectrum.
 - The first row must contain the wavenumber values.
 - The first column of each row (i.e., the first column of the file) must contain the class label for the corresponding spectrum.
