@@ -1,6 +1,6 @@
 """
 Vibrational Spectra Analysis with Python (Google Colab)
-Last updated: May 18, 2025.
+Last updated: Feb 18, 2026.
 
 This script was developed for the spectral analysis of Raman and FTIR (Fourier-transform infrared) spectroscopy data.
 
