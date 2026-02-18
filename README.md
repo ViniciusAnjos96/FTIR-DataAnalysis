@@ -1,14 +1,14 @@
 """
-FTIR Spectral Analysis with Python (Google Colab)
+Vibrationa Spectral Analysis with Python (Google Colab)
 Last updated: May 18, 2025.
 
-This script was developed for the spectral analysis of FTIR (Fourier-transform infrared spectroscopy) data.
+This script was developed for the spectral analysis of Raman and FTIR (Fourier-transform infrared) spectroscopy data.
 
 ====================
 DATA FORMAT REQUIRED
 ====================
 - The input file must be in `.csv` or `.xlsx` format.
-- Each row should represent an individual FTIR spectrum.
+- Each row should represent an individual Raman/FTIR spectrum.
 - The first row must contain the wavenumber values.
 - The first column of each row (i.e., the first column of the file) must contain the class label for the corresponding spectrum.
 
